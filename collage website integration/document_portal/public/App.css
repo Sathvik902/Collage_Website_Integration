@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(202, 226, 202);
+  padding: 4%;
+}
+
+#container{
+  top: 15;;
+  width:3%;
+  width:4%;
+  height:4%;
+  display: inline-block;
+  align-self: center;
+}
+#logo{
+  position:static;
+  width:8%;
+  height:8%;
+  min-width: 20px;
+  max-width: 20%;
+  padding-top: 0;
+  border-radius: 12%;
+  
+  
+ 
+  
+}
+
+
+#heading{
+  position: absolute;
+  height:20px;
+  padding-left: 15%;
+  top:5%;
+  color:black;
+  text-align: center;
+  
+}
+.bg{
+  z-index: -1;
+  opacity: 010;
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
